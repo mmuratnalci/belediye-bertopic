@@ -1,3 +1,11 @@
 .venv/
 __pycache__/
 *.pyc
+.cache/
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.onnx
+konu_analizi_sonuclari.xlsx

@@ -1,0 +1,11 @@
+streamlit>=1.35,<2
+bertopic>=0.16.3,<0.18
+sentence-transformers>=3.0,<6
+umap-learn>=0.5.6
+hdbscan>=0.8.38
+scikit-learn>=1.4,<1.8
+pandas>=2.1
+numpy>=1.26,<2.3
+plotly>=5.20
+openpyxl>=3.1
+xlsxwriter>=3.2
